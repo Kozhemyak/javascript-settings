@@ -21,5 +21,9 @@ object JavaScriptProject_DeployToStagging : BuildType({
             snapshot {
             }
         }
+        dependency(JavaScriptProject.buildTypes.JavaScriptProject_IE) {
+            snapshot {
+            }
+        }
     }
 })
