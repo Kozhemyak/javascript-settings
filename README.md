@@ -27,3 +27,10 @@ object Project : Project({
   name = "JavaScript Project (Experimental)"
 }
 ```
+
+Table
+
+| Day | Meal | Price |
+| - | - | - |
+| Monday | pasta | $6 |
+| Tuesday | chicken | $8 |
