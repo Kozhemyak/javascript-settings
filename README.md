@@ -1,6 +1,6 @@
 # TeamCity Configuration for JS Project
 ## Introduction
-------------------
+
 This **README** file is used for syntax test. Moreover, it helps to find out the way to *How to struct it right*.
 
 It's ~~stange way~~ __very convinient__ to write the recommendations.
