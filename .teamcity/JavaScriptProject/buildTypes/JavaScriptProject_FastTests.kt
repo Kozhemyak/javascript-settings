@@ -7,4 +7,5 @@ object JavaScriptProject_FastTests : BuildType({
     uuid = "b8bebc28-5f33-4328-9409-be3d6fe0d56a"
     id = "JavaScriptProject_FastTests"
     name = "01. Fast Tests"
+    description = "Test Changes"
 })
