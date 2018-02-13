@@ -1,0 +1,2 @@
+# javascript-settings
+TeamCity Configuration
