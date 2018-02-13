@@ -6,7 +6,7 @@ import jetbrains.buildServer.configs.kotlin.v2017_2.buildSteps.script
 object JavaScriptProject_Template : Template({
     uuid = "8fa43427-3d8d-4ae9-83fb-8f54279b3a32"
     id = "JavaScriptProject_Template"
-    name = "Template"
+    name = "BaseTemplate"
 
     params {
         param("Browser", "PhantomJS")

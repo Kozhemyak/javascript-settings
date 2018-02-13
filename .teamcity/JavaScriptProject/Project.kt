@@ -11,7 +11,7 @@ object Project : Project({
     uuid = "JavaScriptProject"
     id = "JavaScriptProject"
     parentId = "_Root"
-    name = "JavaScript Project"
+    name = "JavaScript Project (Experimental)"
 
     vcsRoot(JavaScriptProject_HttpsGithubComG0t4teamcityCourseCardsGit)
 
