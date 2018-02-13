@@ -10,6 +10,7 @@ object JavaScriptProject_Template : Template({
 
     params {
         param("Browser", "PhantomJS")
+        param("NameOfBuild", "5")
     }
 
     vcs {
