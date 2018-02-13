@@ -19,6 +19,7 @@ object Project : Project({
     buildType(JavaScriptProject_Firefox)
     buildType(JavaScriptProject_Chrome)
     buildType(JavaScriptProject_DeployToStagging)
+    buildType(JavaScriptProject_IE)
 
     template(JavaScriptProject_Template)
 
