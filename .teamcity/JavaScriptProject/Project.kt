@@ -8,10 +8,10 @@ import jetbrains.buildServer.configs.kotlin.v2017_2.projectFeatures.VersionedSet
 import jetbrains.buildServer.configs.kotlin.v2017_2.projectFeatures.versionedSettings
 
 object Project : Project({
-    uuid = "70e92753-d851-43f8-854a-def6a490380c"
+    uuid = "JavaScriptProject"
     id = "JavaScriptProject"
     parentId = "_Root"
-    name = "JavaScript Project"
+    name = "JavaScript Project (Experimental)"
 
     vcsRoot(JavaScriptProject_HttpsGithubComG0t4teamcityCourseCardsGit)
 
@@ -19,7 +19,6 @@ object Project : Project({
     buildType(JavaScriptProject_Firefox)
     buildType(JavaScriptProject_Chrome)
     buildType(JavaScriptProject_DeployToStagging)
-    buildType(JavaScriptProject_IE)
 
     template(JavaScriptProject_Template)
 
